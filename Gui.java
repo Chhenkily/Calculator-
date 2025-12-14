@@ -58,6 +58,7 @@ class Gui {
         label2.setBorder(BorderFactory.createEmptyBorder(5, 15, 10, 15));
         label2.setFont(new Font("Arial", Font.ITALIC,15));
         label2.setOpaque(true);
+        ///testtiong jdsfkjasdhfiakjdfiu ar
         
 
         topPanel.add(label1);
